@@ -10,6 +10,6 @@ This is a repository to showcase my various open source contributions to open so
 | Trustroots <br> *Travellers' community. Sharing, hosting and getting people together.* | [Trustroots](https://github.com/Trustroots/trustroots) | [Pull Request](https://github.com/Trustroots/trustroots/pull/1196)
 | Docsify <br> *A magical documentation site generator.* | [Docsify](https://github.com/docsifyjs/docsify) | [Pull Request](https://github.com/docsifyjs/docsify/pull/1022)
 | Postman Docs <br> *Postman is the collaboration platform for API development.*  | [Postman Docs](https://github.com/postmanlabs/postman-docs) | [Pull Request](https://github.com/postmanlabs/postman-docs/pull/3046)
-| | |
+| GraphQL.org Community Docs <br> *GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data* | [graphql.org community meetups](https://graphql.org/community/upcoming-events/#meetups) | [Pull Request](https://github.com/graphql/graphql.github.io/pull/1043) |
 | | |
 | | |
